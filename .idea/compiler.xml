@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="Topic5" />
+        <module name="Topic6" />
       </profile>
     </annotationProcessing>
   </component>
